@@ -4,7 +4,8 @@ Django notes for all learners who are trying to learn Django.
 
 ## My Django Doc
 This is a repository for my notes on Django. The notes are from the sunlearn course.
-You can read it by importing it into the Obsidian app.
+You can read it by importing it into the Obsidian app or you can starting reading it on GitHub.
+[Start reading](https://github.com/PAIREN1383/DjangoNote/blob/main/Django/1.%20Framework.md)
 I hope you enjoy.
 
 
