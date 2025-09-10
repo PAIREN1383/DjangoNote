@@ -1,4 +1,6 @@
 # DjangoNote
+Django notes for all learners who are trying to learn Django.
+
 
 ## My Django Doc
 This is a repository for my notes on Django. The notes are from the sunlearn course.
